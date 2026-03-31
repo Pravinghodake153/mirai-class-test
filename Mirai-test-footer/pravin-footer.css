@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+.main-footer{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.741);
+    color: white;
+}
+.logo{
+    width: 30%;
+    height: auto;
+}
+.text1{
+    text-align: center;
+    
+}
+.love{
+    color: red;
+
+}
+.social{
+    width: 20px;
+    display: flex;
+    margin-top: 3%;
+    margin-left: 10%;
+}
+.img1{
+    margin-left: 10px;
+
+    
+}
+button{
+    background-color: rgb(15, 16, 16);
+    height: 40px;
+}
+.image1{
+    margin-top: 5%;
+    margin-bottom: ;
+    
+}
