@@ -1,149 +1,170 @@
-.Navbar{
-            border: 2px solid black;
-            height: 1500px;
-            position: relative;
-            margin-top: 1%;
-             background-color: black; 
-        }
-      .navbar{
-        margin: auto;
-        border: 2px solid black;
-        width: 30%;
-        height: 20%;
-        margin-top: 2px;
-        margin-bottom: 80px;
-        border-radius: 27px;
-        text-align: center;
-        background-color:rgba(0, 0, 0, 0.738);
-        padding: 5px;
-        display: flex;
-        gap: 20%;
-        position: relative;
-      }
-      a{
-        margin-top: 9px;
-        color: white;
-        text-decoration: none;
-       
-      }
-      .img{
-        position: absolute;
-       left: 18%;
-      }
-      .right{
-        position: absolute;
-        bottom: 1440px;
-        left: 1250px;
-        color: azure;
-      }
-     button{
+
+.Navbar {
+  height: 800px;
+}
+
+.navbar {
+  margin: auto;
+  border: 2px solid black;
+  width: 30%;
+  height: 20%;
+  margin-top: 2px;
+  margin-bottom: 80px;
+  border-radius: 27px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.738);
+  padding: 5px;
+  display: flex;
+  gap: 20%;
+}
+
+a {
+  margin-top: 9px;
+  color: white;
+  text-decoration: none;
+
+}
+
+.img {
+
+  left: 18%;
+}
+
+.right {
+
+  bottom: 1440px;
+  left: 1250px;
+  color: azure;
+}
+
+/* button{
         color: whitesmoke;
-        position: absolute;
+  
         background-color: orange;
        left: 80%;
        top: 2%;
         cursor: pointer;
         height: 5%;
         width: 8%;
-     }
-     h2{
-        position: absolute;
+     } */
+/* h2{
+  
         left: 20%;
         font-size: 300%;
         top: 5%;
         color: azure;
-     }
-     p{
-        position: absolute;
+     } */
+/* p{
+  
         color: wheat;
         top: 10%;
         font-size: 130%;
         left: 20%;
-     }
-     .mera p{
-       position: absolute;
-        left: 20%;
-        top: 25%;
-        color: ghostwhite;
-     }
-     .khwab p{
-      position: absolute;
-        left: 35%;
-        top: 25%;
-         color: ghostwhite;
-     }
-     .my p{
-      position: absolute;
-        left: 50%;
-        top: 25%;
-        color: ghostwhite;
-     }
-     .bad p{
-      position: absolute;
-        left: 60%;
-        top: 25%;
-        color: ghostwhite;
-     }
-     .good p{
-      position: absolute;
-        left: 70%;
-        top: 25%;
-        color: ghostwhite;
-     }
-     .mock p{
-      position: absolute;
-        left: 80%;
-        top: 25%;
-        color: ghostwhite;
-     }
-     .card-105 h2{
-        position: absolute;
-        left: 15%;
-        top: 33%; 
-         color: azure;
-     }
-      .card-105 p{
-        position: absolute;
-        left: 15%;
-        top: 40%;
-     color: ghostwhite;
-      }
-     .mera img{
-      position: absolute;
-       left: 20%;
-       top: 15%;
-     }
-          .khwab img{
-      position: absolute;
-       left: 35%;
-       top: 15%;
-     }
-      .my img{
-      position: absolute;
-       left: 48%;
-       top: 15%;
-     }
-     .bad img{
-      position: absolute;
-       left: 58%;
-       top: 15%;
-     }
-     .good img{
-      position: absolute;
-       left: 70%;
-       top: 15%;
-     }
-     .mock img{
-        position: absolute;
-       left: 80%;
-       top: 15%;
-     }
-     .para p{
-       position: absolute;
-        left: 15%;
-        top: 80%;
-     color: ghostwhite;
-     font-size: 150%;
-     }
+     } */
+.mera p {
 
-     
+  left: 20%;
+  top: 25%;
+       
+}
+
+.khwab p {
+   
+  left: 35%;
+  top: 25%;
+       
+}
+
+.my p {
+       
+  left: 50%;
+  top: 25%;
+       
+}
+
+.bad p {
+  position: absolute;
+  left: 60%;
+  top: 25%;
+       
+}
+
+.good p {
+  position: absolute;
+  left: 70%;
+  top: 25%;
+       
+}
+
+.mock p {
+  position: absolute;
+  left: 80%;
+  top: 25%;
+       
+}
+
+.card-105 h2 {
+
+  left: 15%;
+  top: 33%;
+  color: azure;
+}
+
+.card-105 p {
+
+  left: 15%;
+  top: 40%;
+       
+}
+
+.mera img {
+  /* left: 20%;
+  top: 15%; */
+  width: 80px;
+}
+
+.khwab img {
+  /* left: 35%;
+  top: 15%; */
+   width: 80px;
+}
+
+.my img {
+  /* left: 48%;
+  top: 15%; */
+   width: 80px;
+}
+
+.bad img {
+  /* left: 58%;
+  top: 15%; */
+   width: 80px;
+}
+
+.good img {
+  /* left: 70%;
+  top: 15%; */
+   width: 80px;
+}
+
+.mock img {
+
+  /* left: 80%;
+  top: 15%; */
+   width: 80px;
+}
+
+.para p {
+
+  left: 15%;
+  top: 80%;
+       
+  font-size: 150%;
+}
+.mai{
+  display: flex;
+  justify-content: baseline;
+}
+.my{
+  display: flex;
+}

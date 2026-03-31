@@ -2,16 +2,15 @@
     box-sizing: border-box;
    font-family:Arial;
     color: white;
-
 }
 body{
-    background-color: black;
     height: auto;
+    background-color: black;
 }
 .card-160{
     
     width: 70%;
-    height: 55vh;
+    /* height: 52vh; */
     display: flex;
     justify-self: center;
     background-color: rgb(41, 40, 40);
@@ -22,7 +21,7 @@ body{
     width: 70%;
 }
 .card-162{
-    margin-top: 1.5%;
+    margin-top:1%;
 }
 
 .card-main1{
@@ -30,7 +29,8 @@ body{
     height: 85%;
    
     margin-left: 7%;
-    margin-top: 4%;
+    margin-top: 2%;
+    margin-bottom: 7%;
 }
 .card-upper-1{
     display: flex;

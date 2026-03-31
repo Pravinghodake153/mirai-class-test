@@ -1,0 +1,90 @@
+
+        .review{
+            color: white;
+            margin-top: 4%;
+            margin-left:10%;
+            margin-bottom: 4%;
+        }
+
+        .paragraph{
+            margin-top: -2%;
+        }
+
+        /* .p{
+            align-items: center;
+        } */
+
+        .fBox{
+            background-color: rgb(15, 19, 26);
+            color: white;
+            border: 2px solid rgb(0, 0, 0);
+            border-radius: 1px solid black;
+            /* box-sizing: auto; */
+            height: 40px;
+            width: 150px;
+            display: flex;
+            float: right;
+            margin-right: 600px;
+            margin-top: -5%;
+            
+        }
+        
+        .gBox{
+            background-color: rgb(15, 19, 26);
+            
+            border:2px solid black;
+            margin-top: 2%;
+            height:40px;
+            width: 150px;
+            display: flex;
+            float: right;
+            margin-right:400px;
+            margin-top: -5%;
+        }
+
+       
+
+        .qBox{
+            background-color:rgb(15, 19, 26);
+            
+            border:2px solid black;
+            margin-top: 2%;
+            height:40px;
+            width: 150px;
+            display: flex;
+            float: right;
+            margin-right: 150px;
+            margin-top: -6.5%;
+        }
+
+        .H51{
+            margin-top: 4%;
+            margin-left:10%;
+        }
+
+        .H52{
+            margin-top: -24.3%;
+            margin-right:62%;
+            float: right;
+        }
+
+        .H53{
+            margin-top: -24.3%;
+            margin-right:44%;
+            float: right;
+        }
+
+        .H54{
+            margin-top: -24.3%;
+            margin-right:32%;
+            float: right;
+        }
+
+        .H55{
+            margin-top: -24.3%;
+            margin-right: 10%;
+            float: right;
+        }
+        hr{
+            color: rgb(15, 19, 26);
+        }
